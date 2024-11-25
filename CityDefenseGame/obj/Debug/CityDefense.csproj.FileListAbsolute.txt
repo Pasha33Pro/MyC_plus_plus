@@ -1,0 +1,64 @@
+C:\Users\Lenovo\Desktop\CityDefense\bin\Debug\CityDefense.exe.config
+C:\Users\Lenovo\Desktop\CityDefense\bin\Debug\CityDefense.exe
+C:\Users\Lenovo\Desktop\CityDefense\bin\Debug\CityDefense.pdb
+C:\Users\Lenovo\Desktop\CityDefense\obj\Debug\CityDefense.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\CityDefense\obj\Debug\CityDefense.MainWindow.resources
+C:\Users\Lenovo\Desktop\CityDefense\obj\Debug\CityDefense.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\CityDefense\obj\Debug\CityDefense.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\CityDefense\obj\Debug\CityDefense.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\CityDefense\obj\Debug\CityDefense.exe
+C:\Users\Lenovo\Desktop\CityDefense\obj\Debug\CityDefense.pdb
+C:\Users\Lenovo\Desktop\CityDefense\CityDefense\bin\Debug\CityDefense.exe.config
+C:\Users\Lenovo\Desktop\CityDefense\CityDefense\bin\Debug\CityDefense.exe
+C:\Users\Lenovo\Desktop\CityDefense\CityDefense\bin\Debug\CityDefense.pdb
+C:\Users\Lenovo\Desktop\CityDefense\CityDefense\obj\Debug\CityDefense.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\CityDefense\CityDefense\obj\Debug\CityDefense.MainWindow.resources
+C:\Users\Lenovo\Desktop\CityDefense\CityDefense\obj\Debug\CityDefense.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\CityDefense\CityDefense\obj\Debug\CityDefense.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\CityDefense\CityDefense\obj\Debug\CityDefense.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\CityDefense\CityDefense\obj\Debug\CityDefense.exe
+C:\Users\Lenovo\Desktop\CityDefense\CityDefense\obj\Debug\CityDefense.pdb
+C:\Users\Home\OneDrive\Рабочий стол\CityDefense\bin\Debug\CityDefense.exe.config
+C:\Users\Home\OneDrive\Рабочий стол\CityDefense\bin\Debug\CityDefense.exe
+C:\Users\Home\OneDrive\Рабочий стол\CityDefense\bin\Debug\CityDefense.pdb
+C:\Users\Home\OneDrive\Рабочий стол\CityDefense\obj\Debug\CityDefense.csproj.AssemblyReference.cache
+C:\Users\Home\OneDrive\Рабочий стол\CityDefense\obj\Debug\CityDefense.MainWindow.resources
+C:\Users\Home\OneDrive\Рабочий стол\CityDefense\obj\Debug\CityDefense.Properties.Resources.resources
+C:\Users\Home\OneDrive\Рабочий стол\CityDefense\obj\Debug\CityDefense.csproj.GenerateResource.cache
+C:\Users\Home\OneDrive\Рабочий стол\CityDefense\obj\Debug\CityDefense.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Рабочий стол\CityDefense\obj\Debug\CityDefense.exe
+C:\Users\Home\OneDrive\Рабочий стол\CityDefense\obj\Debug\CityDefense.pdb
+C:\Users\Home\OneDrive\Рабочий стол\CityDefense\obj\Debug\CityDefense.csproj.Fody.CopyLocal.cache
+C:\Users\Home\OneDrive\Рабочий стол\все что было в габочем столе\CityDefense\bin\Debug\CityDefense.exe.config
+C:\Users\Home\OneDrive\Рабочий стол\все что было в габочем столе\CityDefense\bin\Debug\CityDefense.exe
+C:\Users\Home\OneDrive\Рабочий стол\все что было в габочем столе\CityDefense\bin\Debug\CityDefense.pdb
+C:\Users\Home\OneDrive\Рабочий стол\все что было в габочем столе\CityDefense\obj\Debug\CityDefense.csproj.AssemblyReference.cache
+C:\Users\Home\OneDrive\Рабочий стол\все что было в габочем столе\CityDefense\obj\Debug\CityDefense.MainWindow.resources
+C:\Users\Home\OneDrive\Рабочий стол\все что было в габочем столе\CityDefense\obj\Debug\CityDefense.Properties.Resources.resources
+C:\Users\Home\OneDrive\Рабочий стол\все что было в габочем столе\CityDefense\obj\Debug\CityDefense.csproj.GenerateResource.cache
+C:\Users\Home\OneDrive\Рабочий стол\все что было в габочем столе\CityDefense\obj\Debug\CityDefense.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Рабочий стол\все что было в габочем столе\CityDefense\obj\Debug\CityDefense.csproj.Fody.CopyLocal.cache
+C:\Users\Home\OneDrive\Рабочий стол\все что было в габочем столе\CityDefense\obj\Debug\CityDefense.exe
+C:\Users\Home\OneDrive\Рабочий стол\все что было в габочем столе\CityDefense\obj\Debug\CityDefense.pdb
+C:\Users\Препод\Source\Repos\CityDefense-game\bin\Debug\CityDefense.exe.config
+C:\Users\Препод\Source\Repos\CityDefense-game\bin\Debug\CityDefense.exe
+C:\Users\Препод\Source\Repos\CityDefense-game\bin\Debug\CityDefense.pdb
+C:\Users\Препод\Source\Repos\CityDefense-game\obj\Debug\CityDefense.csproj.AssemblyReference.cache
+C:\Users\Препод\Source\Repos\CityDefense-game\obj\Debug\CityDefense.MainWindow.resources
+C:\Users\Препод\Source\Repos\CityDefense-game\obj\Debug\CityDefense.Properties.Resources.resources
+C:\Users\Препод\Source\Repos\CityDefense-game\obj\Debug\CityDefense.csproj.GenerateResource.cache
+C:\Users\Препод\Source\Repos\CityDefense-game\obj\Debug\CityDefense.csproj.CoreCompileInputs.cache
+C:\Users\Препод\Source\Repos\CityDefense-game\obj\Debug\CityDefense.csproj.Fody.CopyLocal.cache
+C:\Users\Препод\Source\Repos\CityDefense-game\obj\Debug\CityDefense.exe
+C:\Users\Препод\Source\Repos\CityDefense-game\obj\Debug\CityDefense.pdb
+C:\Users\PASHA33PRO\source\repos\CityDefense\bin\Debug\CityDefense.exe.config
+C:\Users\PASHA33PRO\source\repos\CityDefense\bin\Debug\CityDefense.exe
+C:\Users\PASHA33PRO\source\repos\CityDefense\bin\Debug\CityDefense.pdb
+C:\Users\PASHA33PRO\source\repos\CityDefense\obj\Debug\CityDefense.csproj.AssemblyReference.cache
+C:\Users\PASHA33PRO\source\repos\CityDefense\obj\Debug\CityDefense.MainWindow.resources
+C:\Users\PASHA33PRO\source\repos\CityDefense\obj\Debug\CityDefense.Properties.Resources.resources
+C:\Users\PASHA33PRO\source\repos\CityDefense\obj\Debug\CityDefense.csproj.GenerateResource.cache
+C:\Users\PASHA33PRO\source\repos\CityDefense\obj\Debug\CityDefense.csproj.CoreCompileInputs.cache
+C:\Users\PASHA33PRO\source\repos\CityDefense\obj\Debug\CityDefense.csproj.Fody.CopyLocal.cache
+C:\Users\PASHA33PRO\source\repos\CityDefense\obj\Debug\CityDefense.exe
+C:\Users\PASHA33PRO\source\repos\CityDefense\obj\Debug\CityDefense.pdb
